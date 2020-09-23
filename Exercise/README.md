@@ -1,7 +1,7 @@
 Welcome to your exercise. complete the lowest_terms function in compute_lowest_terms.py file.
 
 
-Donot change the test_compute_lowest_terms.py file
+Do not change the test_compute_lowest_terms.py file
 
 
 when you are done, run pytest in your Exercise folder: to run pytest just type into your terminal:
